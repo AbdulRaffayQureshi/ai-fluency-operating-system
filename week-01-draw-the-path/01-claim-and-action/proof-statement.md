@@ -4,17 +4,14 @@
 
 ---
 
-## Proof Statement (What I Am Proving)
+## Proof Statement
 
-I build production-ready AI, machine learning, and web applications backed by reproducible code, rigorous data contracts, and clean UI architecture.
+I can build reproducible ML pipelines that turn raw biological data into production-ready drug-target predictions for biotech R&D leads who are tired of demo-grade models that fail in production.
 
-## Target Action (The One Thing I Want)
+## Target Action
 
-Drive visitors to review my case studies and **book a project consultation**.
+Book a 20-minute call to see if their dataset is pipeline-ready.
 
-## Why This Matters
+## Why This Exists
 
-Every page on my portfolio must either:
-1. State this claim immediately,
-2. Prove it with evidence, or
-3. Remove friction toward the consultation booking action.
+My CV says "bioinformatics" but it doesn't prove to a hiring manager that I can ship a pipeline that runs at 2 AM without breaking.

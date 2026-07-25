@@ -6,10 +6,10 @@
 ---
 
 ## My Proof Statement
-&gt; I build production-ready AI, machine learning, and web applications backed by reproducible code, rigorous data contracts, and clean UI architecture.
+&gt; I can build reproducible ML pipelines that turn raw biological data into production-ready drug-target predictions for biotech R&D leads who are tired of demo-grade models that fail in production.
 
 ## My One Action
-&gt; Drive visitors to review my case studies and **book a project consultation**.
+&gt; Book a 20-minute call to see if their dataset is pipeline-ready.
 
 ---
 
