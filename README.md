@@ -1,29 +1,21 @@
-# Personal AI Operating System (AI Fluency Portfolio)
+# AI Fluency Operating System
 
-> **Intern:** Abdul Raffay Qureshi  
-> **Track:** FlyRank AI Fluency  
-> **Status:** Phase 01 Completed  
-
----
-
-## Overview
-
-This repository serves as my documented **Personal AI Operating System**, covering weekly workflow audits, task classification frameworks, prompt engineering standards, public artifacts, and evaluation checklists.
+**Intern:** Abdul Raffay Qureshi  
+**Track:** FlyRank AI Fluency  
 
 ---
 
-## Module Index
+## My Proof Statement
+&gt; I build production-ready AI, machine learning, and web applications backed by reproducible code, rigorous data contracts, and clean UI architecture.
 
-* [FL-01: Setup & Workflow Audit](./modules/FL-01-workflow-audit.md)
-* [FL-02: Prompt Engineering & Workflows](./modules/FL-02-prompt-library.md) *(In Progress)*
-* [FL-03: Public Artifact](./modules/FL-03-public-artifact.md) *(Pending)*
-* [FL-04: AI Quality Bar & Evaluation Checklist](./modules/FL-04-eval-checklist.md) *(Pending)*
+## My One Action
+&gt; Drive visitors to review my case studies and **book a project consultation**.
 
 ---
 
-## Core Tooling Stack
+## Weekly Deliverables
 
-* **Primary AI Engine:** Claude (Anthropic)
-* **Secondary Assistant:** ChatGPT (OpenAI)
-* **Development Environment:** VS Code
-* **Coursework:** Anthropic Academy — *AI Fluency: Framework & Foundations*
+| Week | Assignment | Status | Last Updated |
+|------|-----------|--------|--------------|
+| 01 | [Draw the Path: Sitemap + Toolkit](./week-01-draw-the-path/) | Completed | 2026-07-25 |
+| 02 | — | Pending | — |
